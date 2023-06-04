@@ -1,15 +1,20 @@
-name: Validate JSONs
-
-on: 
-  pull_request:
+name: json-yaml-validate 
+on:
   push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  verify-json-validation:
+  json-yaml-validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_JSONS: pl/karta_postaci.json,pl/umiejetnosci.json,pl/zdolnosci.json
+      - uses: actions/checkout@v3
+
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v1.4.0
