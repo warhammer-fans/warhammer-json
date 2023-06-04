@@ -1,56 +1,244 @@
 {
-    "podstawowe":{
-        "Charakteryzacja [Ogd]  ":"",
-        "Dowodzenie [Ogd]  ":"",
-        "Hazard [Int]  ":"",
-        "Jeździectwo [Zr]  ":"",
-        "Mocna głowa [Odp]  ":"",
-        "Opieka nad zwierzętami [Int]  ":"",
-        "Plotkowanie [Ogd] ":"",
-        "Pływanie [K]":"",
-        "Powożenie [K]  ":"",
-        "Przekonywanie [Ogd]  ":"",
-        "Przeszukiwanie [Int]  ":"",
-        "Skradanie się [Zr]  ":"",
-        "Spostrzegawczość [Int]  ":"",
-        "Sztuka przetrwania [Int]  ":"",
-        "Targowanie [Ogd]  ":"",
-        "Ukrywanie się [Zr]  ":"",
-        "Wioślarstwo [K]  ":"",
-        "Wspinaczka [K]  ":"",
-        "Wycena [Int] ":"",
-        "Zastraszanie [K] ":""
-    },
-    "zaawansowane":{
-        "Brzuchomówstwo [Ogd] ":"",
-        "Czytanie i pisanie [Int] ":"",
-        "Czytanie z warg [Int] ":"",
-        "Gadanina [Ogd] ":"",
-        "Hipnoza [SW] ":"",
-        "Leczenie [Int] ":"",
-        "Nawigacja [Int] ":"",
-        "Oswajanie [Ogd] ":"",
-        "Otwieranie zamków [Zr] ":"",
-        "Splatanie magii [SW] ":"",
-        "Śledzenie [Zr] ":"",
-        "Torturowanie [SW] ":"",
-        "Tresura [Int] ":"",
-        "Tropienie [Int] ":"",
-        "Unik [Zr] ":"",
-        "Warzenie trucizn [Int] ":"",
-        "Wykrywanie magii [SW] ":"",
-        "Zastawianie pułapek [Int] ":"",
-        "Zwinne palce [Zr] ":"",
-        "Żeglarstwo [Int] ":""
-    },
-    "opisowe":{
-        "Język tajemny  [Int] ":"",
-        "Kuglarstwo [Ogd] ":"",
-        "Nauka [Int] ":"",
-        "Rzemiosło  ":"",
-        "Sekretne znaki [Int] ":"",
-        "Sekretny język [Int] ":"",
-        "Wiedza [Int] ":"",
-        "Znajomość języka [Int] ":""
-    }
+    "umiejetnosci": [
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Charakteryzacja",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Dowodzenie",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Hazard",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Jeździectwo",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Mocna głowa",
+            "cecha": "[Odp]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Opieka nad zwierzętami",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Plotkowanie",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Pływanie",
+            "cecha": "[K]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Powożenie",
+            "cecha": "[K]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Przekonywanie",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Przeszukiwanie",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Skradanie się",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Spostrzegawczość",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Sztuka przetrwania",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Targowanie",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Ukrywanie się",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Wioślarstwo",
+            "cecha": "[K]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Wspinaczka",
+            "cecha": "[K]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Wycena",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "podstawowa",
+            "nazwa": "Zastraszanie",
+            "cecha": "[K]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Brzuchomówstwo",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Czytanie i pisanie",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Czytanie z warg",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Gadanina",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Hipnoza",
+            "cecha": "[SW]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Leczenie",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Nawigacja",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Oswajanie",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Otwieranie zamków",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Splatanie magii",
+            "cecha": "[SW]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Śledzenie",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Torturowanie",
+            "cecha": "[SW]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Tresura",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Tropienie",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Unik",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Warzenie trucizn",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Wykrywanie magii",
+            "cecha": "[SW]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Zastawianie pułapek",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Zwinne palce",
+            "cecha": "[Zr]"
+        },
+        {
+            "rodzaj": "zaawansowana",
+            "nazwa": "Żeglarstwo",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Język tajemny",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Kuglarstwo",
+            "cecha": "[Ogd]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Nauka",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Rzemiosło",
+            "cecha": "[#]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Sekretne znaki",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Sekretny język",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Wiedza",
+            "cecha": "[Int]"
+        },
+        {
+            "rodzaj": "opisowa",
+            "nazwa": "Znajomość języka",
+            "cecha": "[Int]"
+        }
+    ]
 }
