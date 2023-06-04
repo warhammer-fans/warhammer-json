@@ -1,331 +1,331 @@
 {
     "zdolnosci": [
         {
-            "nazwa": "Artylerzysta  ",
-            "opis": "Ładowanie broni palnej krótsze o 1 akcję  "
+            "nazwa": "Artylerzysta",
+            "opis": "Ładowanie broni palnej krótsze o 1 akcję"
         },
         {
-            "nazwa": "Bardzo silny  ",
-            "opis": "Krzepa +5 na stałe "
+            "nazwa": "Bardzo silny",
+            "opis": "Krzepa +5 na stałe"
         },
         {
-            "nazwa": "Bardzo szybki ",
-            "opis": "Szybkość +1 na stałe "
+            "nazwa": "Bardzo szybki",
+            "opis": "Szybkość +1 na stałe"
         },
         {
-            "nazwa": "Bijatyka ",
-            "opis": "Walka bez broni: WW+10, obrażenia +1 "
+            "nazwa": "Bijatyka",
+            "opis": "Walka bez broni: WW+10, obrażenia +1"
         },
         {
-            "nazwa": "Błyskawiczne przeładowanie ",
-            "opis": "Skraca przeładowanie broni strzeleckiej o 1 akcję "
+            "nazwa": "Błyskawiczne przeładowanie",
+            "opis": "Skraca przeładowanie broni strzeleckiej o 1 akcję"
         },
         {
-            "nazwa": "Błyskawiczny blok ",
-            "opis": "1 parowanie w ataku wielokrotnym "
+            "nazwa": "Błyskawiczny blok",
+            "opis": "1 parowanie w ataku wielokrotnym"
         },
         {
-            "nazwa": "Błyskotliwość ",
-            "opis": "Inteligencja +5 na stałe "
+            "nazwa": "Błyskotliwość",
+            "opis": "Inteligencja +5 na stałe"
         },
         {
-            "nazwa": "Brawura ",
-            "opis": "Skok  jako akcja pojedyncza, zasięg skoku +1 m "
+            "nazwa": "Brawura",
+            "opis": "Skok  jako akcja pojedyncza, zasięg skoku +1 m"
         },
         {
-            "nazwa": "Broń naturalna ",
-            "opis": "Szpony, kły itp., działają jak broń ręczna "
+            "nazwa": "Broń naturalna",
+            "opis": "Szpony, kły itp., działają jak broń ręczna"
         },
         {
-            "nazwa": "Broń specjalna  ",
+            "nazwa": "Broń specjalna",
             "opis": ""
         },
         {
-            "nazwa": "Bystry wzrok ",
-            "opis": "+10 do testów opartych na wzroku "
+            "nazwa": "Bystry wzrok",
+            "opis": "+10 do testów opartych na wzroku"
         },
         {
-            "nazwa": "Charyzmatyczny ",
-            "opis": "Ogłada +5 na stałe "
+            "nazwa": "Charyzmatyczny",
+            "opis": "Ogłada +5 na stałe"
         },
         {
-            "nazwa": "Chodu! ",
-            "opis": "Sz +1 na k10 rund podczas ucieczek "
+            "nazwa": "Chodu!",
+            "opis": "Sz +1 na k10 rund podczas ucieczek"
         },
         {
-            "nazwa": "Czarnoksięstwo ",
-            "opis": " +1k10 do testu mocy zaklęcia; większa szansa na Przekleństwo Tzeentcha "
+            "nazwa": "Czarnoksięstwo",
+            "opis": " +1k10 do testu mocy zaklęcia; większa szansa na Przekleństwo Tzeentcha"
         },
         {
-            "nazwa": "Człowiek guma ",
-            "opis": " +20 do wyzwalanie się z więzów, kuglarstwo(akrobatyka) +10 "
+            "nazwa": "Człowiek guma",
+            "opis": " +20 do wyzwalanie się z więzów, kuglarstwo(akrobatyka) +10"
         },
         {
-            "nazwa": "Czuły słuch ",
-            "opis": "+20 do testów opartych na słuchu "
+            "nazwa": "Czuły słuch",
+            "opis": "+20 do testów opartych na słuchu"
         },
         {
-            "nazwa": "Dotyk mocy ",
-            "opis": "+20 do WW podczas zaklęć dotykowych "
+            "nazwa": "Dotyk mocy",
+            "opis": "+20 do WW podczas zaklęć dotykowych"
         },
         {
-            "nazwa": "Etykieta ",
-            "opis": "+10 do testów związanych z arystokracją "
+            "nazwa": "Etykieta",
+            "opis": "+10 do testów związanych z arystokracją"
         },
         {
-            "nazwa": "Geniusz arytmetyczny  ",
-            "opis": " +10 do hazardu i nawigacji; +20 do szacowania odległości, wagi, itp. "
+            "nazwa": "Geniusz arytmetyczny",
+            "opis": " +10 do hazardu i nawigacji; +20 do szacowania odległości, wagi, itp."
         },
         {
-            "nazwa": "Grotołaz ",
-            "opis": " +10 do skradania i ukrywania pod ziemią i w jaskiniach "
+            "nazwa": "Grotołaz",
+            "opis": " +10 do skradania i ukrywania pod ziemią i w jaskiniach"
         },
         {
-            "nazwa": "Groźny  ",
-            "opis": " +10 do zastraszania i torturowania  "
+            "nazwa": "Groźny",
+            "opis": " +10 do zastraszania i torturowania"
         },
         {
-            "nazwa": "Gusła ",
-            "opis": "Dodatkowa kość przy określaniu poziomu mocy; służy do sprawdzenia Przekleństwa Tzeentcha. "
+            "nazwa": "Gusła",
+            "opis": "Dodatkowa kość przy określaniu poziomu mocy; służy do sprawdzenia Przekleństwa Tzeentcha."
         },
         {
-            "nazwa": "Intrygant ",
-            "opis": "+10 do przekonywania i testów SW przeciwko przekonywaniu związanych z intrygami "
+            "nazwa": "Intrygant",
+            "opis": "+10 do przekonywania i testów SW przeciwko przekonywaniu związanych z intrygami"
         },
         {
-            "nazwa": "Krasnoludzki fach ",
-            "opis": "+10 do rzemiosło (górnictwo, kamieniarstwo, kowalstwo, jubilerstwo, piwowarstwo, płatnerstwo i rusznikarstwo) "
+            "nazwa": "Krasnoludzki fach",
+            "opis": "+10 do rzemiosło (górnictwo, kamieniarstwo, kowalstwo, jubilerstwo, piwowarstwo, płatnerstwo i rusznikarstwo)"
         },
         {
-            "nazwa": "Krasomówstwo ",
-            "opis": "Oddziaływanie na grupę osób 100 razy większą niż normalnie; wymaga Przemawiania "
+            "nazwa": "Krasomówstwo",
+            "opis": "Oddziaływanie na grupę osób 100 razy większą niż normalnie; wymaga Przemawiania"
         },
         {
-            "nazwa": "Krzepki ",
-            "opis": "BG nosi pancerz ciężki i zbroję płytową bez kar "
+            "nazwa": "Krzepki",
+            "opis": "BG nosi pancerz ciężki i zbroję płytową bez kar"
         },
         {
-            "nazwa": "Latanie ",
-            "opis": "Postać potrafi latać "
+            "nazwa": "Latanie",
+            "opis": "Postać potrafi latać"
         },
         {
-            "nazwa": "Lewitacja ",
-            "opis": "Postać potrafić unosić się nad ziemią "
+            "nazwa": "Lewitacja",
+            "opis": "Postać potrafić unosić się nad ziemią"
         },
         {
-            "nazwa": "Łotrzyk ",
-            "opis": "+10 do plotkowania i przekonywania w półświatku "
+            "nazwa": "Łotrzyk",
+            "opis": "+10 do plotkowania i przekonywania w półświatku"
         },
         {
-            "nazwa": "Magia czarnoksięska ",
+            "nazwa": "Magia czarnoksięska",
             "opis": ""
         },
         {
-            "nazwa": "Magia kapłańska ",
+            "nazwa": "Magia kapłańska",
             "opis": ""
         },
         {
-            "nazwa": "Magia powszechna ",
+            "nazwa": "Magia powszechna",
             "opis": ""
         },
         {
-            "nazwa": "Magia prosta  ",
+            "nazwa": "Magia prosta",
             "opis": ""
         },
         {
-            "nazwa": "Magia tajemna ",
+            "nazwa": "Magia tajemna",
             "opis": ""
         },
         {
-            "nazwa": "Medytacja ",
-            "opis": "Poziomu mocy rytuału +Mag BG "
+            "nazwa": "Medytacja",
+            "opis": "Poziomu mocy rytuału +Mag BG"
         },
         {
-            "nazwa": "Morderczy atak ",
-            "opis": "Trafienie krytyczne zadane bronią w walce wręcz +1 "
+            "nazwa": "Morderczy atak",
+            "opis": "Trafienie krytyczne zadane bronią w walce wręcz +1"
         },
         {
-            "nazwa": "Morderczy pocisk ",
-            "opis": "Zaklęcia typu magiczny pocisk  obrażenia +1 "
+            "nazwa": "Morderczy pocisk",
+            "opis": "Zaklęcia typu magiczny pocisk  obrażenia +1"
         },
         {
-            "nazwa": "Naśladowca ",
-            "opis": "+10 do testów wymagających udawania kogoś "
+            "nazwa": "Naśladowca",
+            "opis": "+10 do testów wymagających udawania kogoś"
         },
         {
-            "nazwa": "Niepokojący ",
-            "opis": "Test SW przeciwnika albo kara ;10 do WW i US "
+            "nazwa": "Niepokojący",
+            "opis": "Test SW przeciwnika albo kara ;10 do WW i US"
         },
         {
-            "nazwa": "Nieustraszony ",
-            "opis": "Strach nie działa; Groza działa jak Strach "
+            "nazwa": "Nieustraszony",
+            "opis": "Strach nie działa; Groza działa jak Strach"
         },
         {
-            "nazwa": "Niezwykle odporny ",
-            "opis": "Odporność +5 na stałe "
+            "nazwa": "Niezwykle odporny",
+            "opis": "Odporność +5 na stałe"
         },
         {
-            "nazwa": "Obieżyświat ",
-            "opis": "+10 do wiedzy  i znajomości języka "
+            "nazwa": "Obieżyświat",
+            "opis": "+10 do wiedzy  i znajomości języka"
         },
         {
-            "nazwa": "Oburęczność ",
-            "opis": "Brak kary dla broni w drugiej ręce "
+            "nazwa": "Oburęczność",
+            "opis": "Brak kary dla broni w drugiej ręce"
         },
         {
-            "nazwa": "Odporność na Chaos ",
-            "opis": " SW+10 przeciw Chaosowi i magii; brak mutacji "
+            "nazwa": "Odporność na Chaos",
+            "opis": " SW+10 przeciw Chaosowi i magii; brak mutacji"
         },
         {
-            "nazwa": "Odporność na choroby ",
-            "opis": "+10 do Odp przeciw chorobom "
+            "nazwa": "Odporność na choroby",
+            "opis": "+10 do Odp przeciw chorobom"
         },
         {
-            "nazwa": "Odporność na magię ",
-            "opis": "+10 do SW przeciwko magii "
+            "nazwa": "Odporność na magię",
+            "opis": "+10 do SW przeciwko magii"
         },
         {
-            "nazwa": "Odporność na trucizny ",
-            "opis": "+10 do Odp przeciwko truciznom "
+            "nazwa": "Odporność na trucizny",
+            "opis": "+10 do Odp przeciwko truciznom"
         },
         {
-            "nazwa": "Odporność psychiczna ",
-            "opis": "Choroba umysłowa przy 14 PO "
+            "nazwa": "Odporność psychiczna",
+            "opis": "Choroba umysłowa przy 14 PO"
         },
         {
-            "nazwa": "Odwaga ",
-            "opis": "+10 do SW przeciwko zastraszaniu Strachowi i Grozie  "
+            "nazwa": "Odwaga",
+            "opis": "+10 do SW przeciwko zastraszaniu Strachowi i Grozie"
         },
         {
-            "nazwa": "Ogłuszanie ",
-            "opis": "Przeciwstawny test K i test Odp lub przeciwnik przez k10 rund nie robi nic "
+            "nazwa": "Ogłuszanie",
+            "opis": "Przeciwstawny test K i test Odp lub przeciwnik przez k10 rund nie robi nic"
         },
         {
-            "nazwa": "Opanowanie ",
-            "opis": "+5 do SW na stałe "
+            "nazwa": "Opanowanie",
+            "opis": "+5 do SW na stałe"
         },
         {
-            "nazwa": "Ożywieniec ",
-            "opis": "Jesteś nieumarłym stworem! "
+            "nazwa": "Ożywieniec",
+            "opis": "Jesteś nieumarłym stworem!"
         },
         {
-            "nazwa": "Pancerz wiary ",
-            "opis": "+3 do rzucania zaklęć w zbroi "
+            "nazwa": "Pancerz wiary",
+            "opis": "+3 do rzucania zaklęć w zbroi"
         },
         {
-            "nazwa": "Poliglota ",
-            "opis": "+10 do czytania i pisania i znajomości języka "
+            "nazwa": "Poliglota",
+            "opis": "+10 do czytania i pisania i znajomości języka"
         },
         {
-            "nazwa": "Przemawianie ",
-            "opis": "Oddziaływanie na grupę osób 10 razy większą niż normalnie; wymagane do Krasomówstwa "
+            "nazwa": "Przemawianie",
+            "opis": "Oddziaływanie na grupę osób 10 razy większą niż normalnie; wymagane do Krasomówstwa"
         },
         {
-            "nazwa": "Przerażający ",
-            "opis": "Postać wzbudza Grozę! "
+            "nazwa": "Przerażający",
+            "opis": "Postać wzbudza Grozę!"
         },
         {
-            "nazwa": "Rozbrajanie ",
-            "opis": "Po trafieniu przeciwstawny test ZR; wróg gubi broń "
+            "nazwa": "Rozbrajanie",
+            "opis": "Po trafieniu przeciwstawny test ZR; wróg gubi broń"
         },
         {
-            "nazwa": "Silny cios ",
-            "opis": "Obrażenia w walce wręcz +1 "
+            "nazwa": "Silny cios",
+            "opis": "Obrażenia w walce wręcz +1"
         },
         {
-            "nazwa": "Straszny ",
-            "opis": "Postać wzbudza Strach! "
+            "nazwa": "Straszny",
+            "opis": "Postać wzbudza Strach!"
         },
         {
-            "nazwa": "Strzał mierzony ",
-            "opis": "+20 do US podczas akcji celowanie "
+            "nazwa": "Strzał mierzony",
+            "opis": "+20 do US podczas akcji celowanie"
         },
         {
-            "nazwa": "Strzał precyzyjny ",
-            "opis": "Obrażenia broni strzeleckich +1 "
+            "nazwa": "Strzał precyzyjny",
+            "opis": "Obrażenia broni strzeleckich +1"
         },
         {
-            "nazwa": "Strzał przebijający ",
-            "opis": "Pociski ignorują 1 PZ celu "
+            "nazwa": "Strzał przebijający",
+            "opis": "Pociski ignorują 1 PZ celu"
         },
         {
-            "nazwa": "Strzelec wyborowy ",
-            "opis": "US +5 na stałe "
+            "nazwa": "Strzelec wyborowy",
+            "opis": "US +5 na stałe"
         },
         {
-            "nazwa": "Szał bojowy ",
-            "opis": "+10 do SW i K, ;10 do WW i US; atak zawsze  szarżą lub szaleńczym atakiem; nie można wykonać odwrotu "
+            "nazwa": "Szał bojowy",
+            "opis": "+10 do SW i K, ;10 do WW i US; atak zawsze  szarżą lub szaleńczym atakiem; nie można wykonać odwrotu"
         },
         {
-            "nazwa": "Szczęście ",
-            "opis": "1 dodatkowy punkt szczęścia dziennie "
+            "nazwa": "Szczęście",
+            "opis": "1 dodatkowy punkt szczęścia dziennie"
         },
         {
-            "nazwa": "Szósty zmysł ",
-            "opis": "Wyczucie zasadzek test SW "
+            "nazwa": "Szósty zmysł",
+            "opis": "Wyczucie zasadzek test SW"
         },
         {
-            "nazwa": "Szybki refleks ",
-            "opis": "+5 do Zr na stałe "
+            "nazwa": "Szybki refleks",
+            "opis": "+5 do Zr na stałe"
         },
         {
-            "nazwa": "Szybkie wyciągnięcie ",
-            "opis": "Dobycie broni jako akcja natychmiastowa "
+            "nazwa": "Szybkie wyciągnięcie",
+            "opis": "Dobycie broni jako akcja natychmiastowa"
         },
         {
-            "nazwa": "Talent artystyczny ",
-            "opis": "+20 do rzemiosło(sztuka) +10 do wyceny dzieł sztuki "
+            "nazwa": "Talent artystyczny",
+            "opis": "+20 do rzemiosło(sztuka) +10 do wyceny dzieł sztuki"
         },
         {
-            "nazwa": "Twardziel ",
-            "opis": "Żyw+1 na stałe "
+            "nazwa": "Twardziel",
+            "opis": "Żyw+1 na stałe"
         },
         {
-            "nazwa": "Ulicznik ",
-            "opis": "+10 do skradania i ukrywania się w mieście "
+            "nazwa": "Ulicznik",
+            "opis": "+10 do skradania i ukrywania się w mieście"
         },
         {
-            "nazwa": "Urodzony wojownik ",
-            "opis": "WW +5 na stałe "
+            "nazwa": "Urodzony wojownik",
+            "opis": "WW +5 na stałe"
         },
         {
-            "nazwa": "Wędrowiec ",
-            "opis": "+10 do skradania i ukrywania się poza miastem "
+            "nazwa": "Wędrowiec",
+            "opis": "+10 do skradania i ukrywania się poza miastem"
         },
         {
-            "nazwa": "Widzenie w ciemności ",
-            "opis": "Widzenie w ciemności do 30 metrów "
+            "nazwa": "Widzenie w ciemności",
+            "opis": "Widzenie w ciemności do 30 metrów"
         },
         {
-            "nazwa": "Woltyżerka ",
-            "opis": "+10 do  jeździectwa; testy w ekstremalnych sytuacjach "
+            "nazwa": "Woltyżerka",
+            "opis": "+10 do  jeździectwa; testy w ekstremalnych sytuacjach"
         },
         {
-            "nazwa": "Wyczucie kierunku ",
-            "opis": "+10 do nawigacji; naturalny kompas  "
+            "nazwa": "Wyczucie kierunku",
+            "opis": "+10 do nawigacji; naturalny kompas"
         },
         {
-            "nazwa": "Wykrywanie pułapek ",
-            "opis": "+10 do spostrzegawczości i otwierania zamków "
+            "nazwa": "Wykrywanie pułapek",
+            "opis": "+10 do spostrzegawczości i otwierania zamków"
         },
         {
-            "nazwa": "Wyostrzone zmysły ",
-            "opis": "+20 do spostrzegawczości  "
+            "nazwa": "Wyostrzone zmysły",
+            "opis": "+20 do spostrzegawczości"
         },
         {
-            "nazwa": "Zapasy ",
-            "opis": "WW, K +10 podczas chwytu "
+            "nazwa": "Zapasy",
+            "opis": "WW, K +10 podczas chwytu"
         },
         {
-            "nazwa": "Zapiekła nienawiść ",
-            "opis": "+5 do WW przeciw Zielonoskórym "
+            "nazwa": "Zapiekła nienawiść",
+            "opis": "+5 do WW przeciw Zielonoskórym"
         },
         {
-            "nazwa": "Zmysł magii ",
-            "opis": "+10 do testów splatania magii "
+            "nazwa": "Zmysł magii",
+            "opis": "+10 do testów splatania magii"
         },
         {
-            "nazwa": "Żyłka handlowa ",
+            "nazwa": "Żyłka handlowa",
             "opis": "+10 do testów targowania i wyceny"
         }
     ]
