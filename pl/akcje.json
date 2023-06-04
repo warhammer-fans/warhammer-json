@@ -1,0 +1,25 @@
+{
+  "display_name": "Standardowe akcje",
+  "list":
+  [
+    {"action_name":"Atak Wielokrotny","action_duration":"Akcja podwójna"},
+    {"action_name":"Bieg","action_duration":"Akcja podwójna"},
+    {"action_name":"Finta","action_duration":"Akcja"},
+    {"action_name":"Odepchnięcie","action_duration":"Akcja"},
+    {"action_name":"Odwrót","action_duration":"Akcja podwójna"},
+    {"action_name":"Opóźnienie","action_duration":"Akcja"},
+    {"action_name":"Ostrożny atak","action_duration":"Akcja podwójna"},
+    {"action_name":"Parowanie","action_duration":"Akcja"},
+    {"action_name":"Pozycja obronna","action_duration":"Akcja podwójna"},
+    {"action_name":"Przeładowanie","action_duration":"Zależny"},
+    {"action_name":"Ruch","action_duration":"Akcja"},
+    {"action_name":"Rzucanie zaklęcia","action_duration":"Zależny"},
+    {"action_name":"Skok","action_duration":"Akcja podwójna"},
+    {"action_name":"Szaleńczy atak","action_duration":"Akcja podwójna"},
+    {"action_name":"Szarża","action_duration":"Akcja podwójna"},
+    {"action_name":"Użycie umiejętności","action_duration":"Zależny"},
+    {"action_name":"Użycie przedmiotu","action_duration":"Akcja"},
+    {"action_name":"Wstawanie","action_duration":"Akcja"},
+    {"action_name":"Wycelowanie","action_duration":"Akcja"}
+  ]
+}
