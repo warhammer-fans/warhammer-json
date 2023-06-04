@@ -1,0 +1,109 @@
+{
+  "Zestawienie akcji":{
+      "Atak Wielokrotny":"",
+      "Odwrót":"",
+      "Przeładowanie":"",
+      "Ruch":"",
+      "Rzucanie zaklęcia":"",
+      "Szarża":"",
+      "Użycie przedmiotu":"",
+      "Wstawanie":"",
+      "Wycelowanie":"",
+      "Użycie  umiejętności":"",
+      "Bieg":"",
+      "Finta":"",
+      "Odepchnięcie":"",
+      "Opóźnienie":"",
+      "Ostrożny atak":"",
+      "Parowanie":"",
+      "Pozycja obronna":"",
+      "Skok":"",
+      "Szaleńczy atak":""
+  },
+  "gracz": {
+    "Gracz": "",
+    "MG": "",
+    "Kampania": ""
+  },
+  "Informacje o postaci":{
+      "Płeć": "",
+      "Wiek": "",
+      "Oczy": "",
+      "Włosy": "",
+      "Waga": "",
+      "Imię": "",
+      "Rasa": "",
+      "Znak Gwiezdny": "",
+      "Znaki Szczególne": "",
+      "Wzrost": "",
+      "Miejsce urodzenia": "",
+      "Zaburzenia psychiczne": "",
+      "Przebieg kariery": "",
+      "Aktualna profesja": "",
+      "Rodzina": "",
+      "Blizny i Rany": "",
+      "Historia": "",
+      "Czczone Bóstwo": ""
+  },
+  "cechy":{
+      "WW":"",
+      "US":"",
+      "K":"",
+      "Odp":"",
+      "Zr":"",
+      "Int":"",
+      "SW":"",
+      "Ogd":"",
+      "Żyw":"",
+      "A":"",
+      "Sz":"",
+      "Mag":"",
+      "S":"",
+      "Wt":"",
+      "PP":"",
+      "PO":""
+  },
+  "Punkty Zbroi": {
+      "głowa" : "01 -15",
+      "korpus" : "56 - 80",
+      "lewa ręka" : "36 -55",
+      "lewa noga" : "91 - 00",
+      "prawa ręka" : "16 - 35",
+      "prawa noga" : "81 - 90"
+    },
+  "ruch":{
+    "Szarża:":"",
+    "Ruch/Odwrót":"",
+    "Bieg":"",
+    "Obciążenie":"",
+    "Udźwig":"",
+    "Kara":""
+  },
+  "misc":{
+    "Punkty Doświadczenia":"",
+    "Dodatkowe informacje":""    
+  },
+  "bron":{
+    "Broń":"",
+    "Kategoria":"",
+    "Obc.":"",
+    "S":"",
+    "Zasięg":"",
+    "Ład.":"",
+    "Cechy Oręża":""
+  },
+  "pancerz":{
+    "Typ Pancerza":"",
+    "Obc.":"",
+    "Lokacja":"",
+    "PZ":""
+  },
+  "Majątek":{
+    "Złote Korony (zk)":"",
+    "Szylingi (s)":"",
+    "Pensy (p)":"",
+    "1zk": "20s",
+    "1s": "12p",
+    "1zk_topence": "240p"
+  }
+}
