@@ -1,0 +1,45 @@
+
+//   "Punkty Zbroi": {
+//       "głowa" : "01 -15",
+//       "korpus" : "56 - 80",
+//       "lewa ręka" : "36 -55",
+//       "lewa noga" : "91 - 00",
+//       "prawa ręka" : "16 - 35",
+//       "prawa noga" : "81 - 90"
+//     },
+//   "ruch":{
+//     "Szarża:":"",
+//     "Ruch/Odwrót":"",
+//     "Bieg":"",
+//     "Obciążenie":"",
+//     "Udźwig":"",
+//     "Kara":""
+//   },
+//   "misc":{
+//     "Punkty Doświadczenia":"",
+//     "Dodatkowe informacje":""
+//   },
+//   "bron":{
+//     "Broń":"",
+//     "Kategoria":"",
+//     "Obc.":"",
+//     "S":"",
+//     "Zasięg":"",
+//     "Ład.":"",
+//     "Cechy Oręża":""
+//   },
+//   "pancerz":{
+//     "Typ Pancerza":"",
+//     "Obc.":"",
+//     "Lokacja":"",
+//     "PZ":""
+//   },
+//   "Majątek":{
+//     "Złote Korony (zk)":"",
+//     "Szylingi (s)":"",
+//     "Pensy (p)":"",
+//     "1zk": "20s",
+//     "1s": "12p",
+//     "1zk_topence": "240p"
+//   }
+// }
