@@ -1,52 +1,195 @@
 {
-  "game":{
-    "display_name": "Gra",
-    "player_name":"Imię",
-    "game_master":"Mistrz Gry",
-    "campaign_name":"Kampania"
-  },
-  "character":{
-    "display_name":"Informacje o postaci",
-    "list":[
-      {"Płeć": ""},
-      {"Wiek": ""},
-      {"Oczy": ""},
-      {"Włosy": ""},
-      {"Waga": ""},
-      {"Imię": ""},
-      {"Rasa": ""},
-      {"Znak Gwiezdny": ""},
-      {"Znaki Szczególne": ""},
-      {"Wzrost": ""},
-      {"Miejsce urodzenia": ""},
-      {"Zaburzenia psychiczne": ""},
-      {"Przebieg kariery": ""},
-      {"Aktualna profesja": ""},
-      {"Rodzina": ""},
-      {"Blizny i Rany": ""},
-      {"Historia": ""},
-      {"Czczone Bóstwo": ""}
-    ]
-  },
-  "statistics":{
-    "display_name":"Cechy",
-    "list":[
-      {"WW":""},
-      {"US":""},
-      {"K":""},
-      {"Odp":""},
-      {"Zr":""},
-      {"Int":""},
-      {"SW":""},
-      {"Ogd":""},
-      {"Żyw":""},
-      {"A":""},
-      {"Sz":""},
-      {"Mag":""},
-      {"S":""},
-      {"Wt":""},
-      {"PP":""},
-      {"PO":""}    
-    ]
-  }
+    "game": {
+        "display_name": "Karta postaci - Warhammer 2.5",
+        "player_name": "Imię BG",
+        "game_master": "Imię MG",
+        "campaign_name": "Kampania"
+    },
+    "character": {
+        "display_name": "Informacje ogólne",
+        "list": [
+            "Płeć",
+            "Wiek",
+            "Oczy",
+            "Włosy",
+            "Waga",
+            "Imię",
+            "Rasa",
+            "Znak Gwiezdny",
+            "Znaki Szczególne",
+            "Wzrost",
+            "Miejsce urodzenia",
+            "Zaburzenia psychiczne",
+            "Przebieg kariery",
+            "Aktualna profesja",
+            "Rodzina",
+            "Blizny i Rany",
+            "Historia",
+            "Czczone Bóstwo"
+        ]
+    },
+    "statistics": {
+        "rank_1": {
+            "display_name": "Cechy Pierwszorzędne",
+            "list": [
+                "WW",
+                "US",
+                "K",
+                "Odp",
+                "Zr",
+                "Int",
+                "SW",
+                "Ogd"
+            ]
+        },
+        "rank_2": {
+            "display_name": "Cechy Drugorzędne",
+            "list": [
+                "Żyw",
+                "A",
+                "Sz",
+                "Mag",
+                "S",
+                "Wt",
+                "PP",
+                "PO"
+            ]
+        }
+    },
+    "armor_points": {
+        "display_name": "Punkty Zbroi",
+        "list": [
+            {
+                "location": "głowa",
+                "dice_roll": "01-15"
+            },
+            {
+                "location": "prawa ręka",
+                "dice_roll": "16-35"
+            },
+            {
+                "location": "lewa ręka",
+                "dice_roll": "36-55"
+            },
+            {
+                "location": "korpus",
+                "dice_roll": "56-80"
+            },
+            {
+                "location": "prawa noga",
+                "dice_roll": "81-90"
+            },
+            {
+                "location": "lewa noga",
+                "dice_roll": "91-00"
+            }
+        ]
+    },
+    "movement": {
+        "display_name": "Ruch",
+        "list": [
+            {
+                "display_name": "Ruch/Odwrót",
+                "speed_modifier": "x1"
+            },
+            {
+                "display_name": "Szarża",
+                "speed_modifier": "x2"
+            },
+            {
+                "display_name": "Bieg",
+                "speed_modifier": "x3"
+            }
+        ]
+    },
+    "carry_weight": {
+        "display_name": "Obciążenie",
+        "list": [
+            {
+                "display_name": "Obciążenie"
+            },
+            {
+                "display_name": "Udźwig"
+            },
+            {
+                "display_name": "Kara"
+            }
+        ]
+    },
+    "misc": {
+        "list": [
+            {
+                "Punkty Doświadczenia": ""
+            },
+            {
+                "Dodatkowe informacje": ""
+            }
+        ]
+    },
+    "weapon": {
+        "display_name": "Broń",
+        "list": [
+            {
+                "Broń": ""
+            },
+            {
+                "Kategoria": ""
+            },
+            {
+                "Obc.": ""
+            },
+            {
+                "S": ""
+            },
+            {
+                "Zasięg": ""
+            },
+            {
+                "Ład.": ""
+            },
+            {
+                "Cechy Oręża": ""
+            }
+        ]
+    },
+    "armor": {
+        "display_name": "Pancerz",
+        "list": [
+            {
+                "Typ Pancerza": ""
+            },
+            {
+                "Obc.": ""
+            },
+            {
+                "Lokacja": ""
+            },
+            {
+                "PZ": ""
+            }
+        ]
+    },
+    "money": {
+        "display_name": "Majątek",
+        "list": [
+            {
+                "Złote Korony (zk)": ""
+            },
+            {
+                "Szylingi (s)": ""
+            },
+            {
+                "Pensy (p)": ""
+            },
+            {
+                "1zk": "20s"
+            },
+            {
+                "1s": "12p"
+            },
+            {
+                "1zk_topence": "240p"
+            }
+        ]
+    }
 }
